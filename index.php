@@ -6,12 +6,12 @@
         <title>Welcome!</title>
         <link rel="profile" href="http://gmpg.org/xfn/11">
         <link rel="pingback" href="/xmlrpc.php">
-        <link rel='stylesheet' id='ui-kit-css-css'  href='/wp-content/themes/mobile-app-example/uikit-2.8.0/css/uikit.min.css?ver=2.8.0' type='text/css' media='all' />
+        <link rel='stylesheet' id='ui-kit-css-css'  href='/wp-content/themes/wp-mobile-app-example/uikit-2.8.0/css/uikit.min.css?ver=2.8.0' type='text/css' media='all' />
         <script type='text/javascript' src='/wp-includes/js/jquery/jquery.js?ver=1.11.0'></script>
         <script type='text/javascript' src='/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1'></script>
-        <script type='text/javascript' src='/wp-content/themes/mobile-app-example/uikit-2.8.0/js/uikit.min.js?ver=2.8.0'></script>
-        <script type='text/javascript' src='/wp-content/themes/mobile-app-example/js/jquery.sparql.js?ver=2.8.0'></script>
-        <script type='text/javascript' src='/wp-content/themes/mobile-app-example/js/urlEncode.js?ver=2.8.0'></script>
+        <script type='text/javascript' src='/wp-content/themes/wp-mobile-app-example/uikit-2.8.0/js/uikit.min.js?ver=2.8.0'></script>
+        <script type='text/javascript' src='/wp-content/themes/wp-mobile-app-example/js/jquery.sparql.js?ver=2.8.0'></script>
+        <script type='text/javascript' src='/wp-content/themes/wp-mobile-app-example/js/urlEncode.js?ver=2.8.0'></script>
     </head>
     <body>
         <div class="uk-container uk-container-center uk-margin-top uk-margin-large-bottom">
@@ -44,6 +44,6 @@
 
         </div>
 
-        <script type='text/javascript' src='/wp-content/themes/mobile-app-example/js/main.js?ver=2.8.0'></script>
+        <script type='text/javascript' src='/wp-content/themes/wp-mobile-app-example/js/main.js?ver=2.8.0'></script>
     </body>
 </html>
